@@ -2,7 +2,6 @@
 2026-11-22 13:37
 
 Tags: #assignment #web-dev
-### Resources
 
 
 # Main Note
